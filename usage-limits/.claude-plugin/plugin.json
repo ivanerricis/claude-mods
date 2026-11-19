@@ -1,0 +1,6 @@
+{
+  "name": "usage-limits",
+  "version": "0.7.0",
+  "description": "Mostra sopra il prompt i limiti di utilizzo (5 ore e settimanale) con percentuale e orario di reset.",
+  "types": "./types/index.d.ts"
+}

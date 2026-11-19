@@ -1,0 +1,5 @@
+{
+  "name": "ivan-mods",
+  "owner": { "name": "ivanerricis" },
+  "plugins": [{ "name": "usage-limits", "source": "./usage-limits" }]
+}
